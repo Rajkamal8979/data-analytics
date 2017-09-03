@@ -141,6 +141,6 @@ if __name__=='__main__':
     #pp.pprint(records)
     #print(len(new_list))
     #print(len(banklist))
-    check_data()
+    #check_data()
 
 
